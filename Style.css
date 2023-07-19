@@ -1,0 +1,24 @@
+p{
+    color: #373946;
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    color:#4A55A2;
+    font-size: 90px;
+    text-align:center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div{
+     background-color: #C5DFF8;
+}
+img{
+   width: 700px;
+   height: 300px;
+   border-radius: 100px;
+
+}
+.otrazzzzzzz{
+    background-color: darkcyan;
+}
